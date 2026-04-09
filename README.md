@@ -44,7 +44,7 @@ The app runs on a Flask server, with as PostgresSQL DB. The frontend has NodeJs 
 - Writing unit tests
 - API reference and writing endpoint documentation
 
-### [03_coffee_shop_full_stack](https://github.com/DiogoAdaoeSilva/FSND/tree/master/projects/03_coffee_shop_full_stack/starter_code) [In review]
+### [03_coffee_shop_full_stack](https://github.com/DiogoAdaoeSilva/FSND/tree/master/projects/03_coffee_shop_full_stack/starter_code) [Passed Review]
 The goal of this project was to practice Identity and Access Management.
 
 The Coffee Shop application is used to manage drinks. It is possible to create a new drink, view a list of existing drinks, delete and update a drink. 
